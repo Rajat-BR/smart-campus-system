@@ -1,0 +1,32 @@
+{
+  "69": {
+    "sid": "69",
+    "name": "Rajat",
+    "marks": 100.0,
+    "grade": "A+",
+    "courses": [
+      "Kannada",
+      "Python"
+    ],
+    "hostel_fee": 80069.0,
+    "mess_fee": 69699.0
+  },
+  "70": {
+    "sid": "70",
+    "name": "Arjun",
+    "marks": 79.0,
+    "grade": "B",
+    "courses": [],
+    "hostel_fee": 0,
+    "mess_fee": 0
+  },
+  "001": {
+    "sid": "001",
+    "name": "Govida",
+    "marks": 20.0,
+    "grade": "F",
+    "courses": [],
+    "hostel_fee": 0,
+    "mess_fee": 0
+  }
+}
